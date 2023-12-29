@@ -14,6 +14,7 @@ The program code for the Genetic Algorithm described in the paper will be availa
 
 ## Citation
 If you find this work useful in your research, please consider citing:
+
 @inproceedings{pomsuwan2024genetic,
 title={A Genetic Algorithm-based Auto-ML System for Survival Analysis},
 author={Pomsuwan, Tossapol and Freitas, Alex A.},
