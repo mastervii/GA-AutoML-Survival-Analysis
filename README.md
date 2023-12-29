@@ -15,11 +15,14 @@ The program code for the Genetic Algorithm described in the paper will be availa
 ## Citation
 If you find this work useful in your research, please consider citing:
 
+```bibtex
 @inproceedings{pomsuwan2024genetic,
-title={A Genetic Algorithm-based Auto-ML System for Survival Analysis},
-author={Pomsuwan, Tossapol and Freitas, Alex A.},
-booktitle={The 39th ACM/SIGAPP Symposium on Applied Computing (SAC '24)},
-pages={To be assigned . . .},
-year={2024},
-organization={ACM}
+  title={A Genetic Algorithm-based Auto-ML System for Survival Analysis},
+  author={Pomsuwan, Tossapol and Freitas, Alex A.},
+  booktitle={The 39th ACM/SIGAPP Symposium on Applied Computing (SAC '24)},
+  pages={To be assigned . . .},
+  year={2024},
+  organization={ACM}
+  doi={10.1145/3605098.3635954},
+  isbn={979-8-4007-0243-3/24/04}
 }
